@@ -1,0 +1,2 @@
+# deneme
+mvc denemesi
